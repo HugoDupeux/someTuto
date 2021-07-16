@@ -1,0 +1,5 @@
+jupyterlab
+google-cloud-bigquery
+pyarrow
+google-cloud-bigquery-storage
+pandas
