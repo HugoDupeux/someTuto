@@ -1,5 +1,4 @@
 # someTuto
-Un projet pour partager certain tutoriel
-
-Pour installer l'environnement nécessaire, utiliser la commande :
-```pip install -r requirements.txt```
+Un projet pour partager certain tutoriel.
+Actuellement vous pourrez trouver des tutoriels portant sur les outils : 
+ - SQL (windows function)
